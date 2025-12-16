@@ -82,6 +82,7 @@ body:not([data-theme]) {
 
 [data-theme="graphite-redline"] .tagline,
 [data-theme="graphite-redline"] .timeline-company,
+[data-theme="graphite-redline"] .project-title,
 :not([data-theme]) .tagline,
 :not([data-theme]) .timeline-company {
     color: var(--primary-color);
@@ -200,6 +201,7 @@ body[data-theme="dark-corporate-blue"] {
 
 [data-theme="dark-corporate-blue"] .section-title,
 [data-theme="dark-corporate-blue"] .name,
+[data-theme="dark-corporate-blue"] .project-title,
 [data-theme="dark-corporate-blue"] .timeline-title {
     color: var(--primary-dark);
 }

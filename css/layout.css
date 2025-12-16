@@ -773,7 +773,7 @@
     [data-theme="dark-corporate-blue"] .sidebar .sidebar-section.active .project-description,
     [data-theme="dark-corporate-blue"] .sidebar .sidebar-section.active .project-technologies,
     [data-theme="dark-corporate-blue"] .sidebar .sidebar-section.active .hobby-item {
-        color: var(--text-light);
+        color: #9FA8DA;
     }
     
     /* MOBILE: Remover qualquer barra ou elemento visual da sidebar */
