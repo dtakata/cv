@@ -583,11 +583,14 @@
     }
     
     /* MOBILE: Seções ativas da sidebar devem parecer parte do main-content (exceto dark) */
+	body:not([data-theme="dark"]) .sidebar {
+        background: var(--bg-light);		
+	}
+	
     body:not([data-theme="dark"]) .sidebar .profile-section.active,
     body:not([data-theme="dark"]) .sidebar .contact-section.active,
     body:not([data-theme="dark"]) .sidebar .sidebar-section.active {
         padding: 0 1rem;
-        background: var(--bg-light);
         margin: 0;
         border: none;
     }
