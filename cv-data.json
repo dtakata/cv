@@ -293,5 +293,37 @@
       "pt": "Inovação e Experimentação (POCs)",
       "en": "Innovation and Experimentation (POCs)"
     }
+  ],
+  "hobbies": [
+    {
+      "pt": "Músico",
+      "en": "Musician"
+    },
+    {
+      "pt": "Artista Circense",
+      "en": "Circus Artist"
+    },
+    {
+      "pt": "Teatro",
+      "en": "Theater"
+    },
+    {
+      "pt": "Games",
+      "en": "Games"
+    }
+  ],
+  "projects": [
+    {
+      "key": "eventsfinder",
+      "icon": "bi-circle-fill"
+    },
+    {
+      "key": "framework",
+      "icon": "bi-circle-fill"
+    },
+    {
+      "key": "asyncflow",
+      "icon": "bi-circle-fill"
+    }
   ]
 }
