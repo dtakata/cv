@@ -5,7 +5,6 @@
       "pt": "Especialista em Arquitetura de Soluções e Liderança Técnica",
       "en": "Solutions Architecture Specialist and Technical Leadership"
     },
-    "photo": "./avatar.png",
     "location": {
       "pt": "São Paulo, Brasil",
       "en": "São Paulo, Brazil"
@@ -13,7 +12,7 @@
     "phone": "+55 11 98501-9411",
     "email": "daniel.takata@gmail.com",
     "linkedin": "https://www.linkedin.com/in/danieltakata",
-    "github": "https://github.com/dtakata"
+    "github": null
   },
   "workExperience": [
     {
@@ -210,7 +209,7 @@
         "en": "KCNA: Kubernetes and Cloud Native Associate"
       },
       "issuer": "Cloud Native Computing Foundation",
-      "year": 2025,
+      "year": null
     },
     {
       "name": {
@@ -218,7 +217,7 @@
         "en": "AWS Certified Solutions Architect – Associate"
       },
       "issuer": "Amazon Web Services",
-      "year": 2025,
+      "year": null
     },
     {
       "name": {
@@ -226,7 +225,7 @@
         "en": "HashiCorp Certified: Terraform Associate"
       },
       "issuer": "HashiCorp",
-      "year": 2024,
+      "year": null
     },
     {
       "name": {
@@ -234,7 +233,7 @@
         "en": "AZ-305: Designing Microsoft Azure Infrastructure Solutions"
       },
       "issuer": "Microsoft",
-      "year": 2025,
+      "year": null
     }
   ],
   "languages": [
@@ -292,38 +291,6 @@
     {
       "pt": "Inovação e Experimentação (POCs)",
       "en": "Innovation and Experimentation (POCs)"
-    }
-  ],
-  "hobbies": [
-    {
-      "pt": "Músico",
-      "en": "Musician"
-    },
-    {
-      "pt": "Artista Circense",
-      "en": "Circus Artist"
-    },
-    {
-      "pt": "Teatro",
-      "en": "Theater"
-    },
-    {
-      "pt": "Games",
-      "en": "Games"
-    }
-  ],
-  "projects": [
-    {
-      "key": "eventsfinder",
-      "icon": "bi-circle-fill"
-    },
-    {
-      "key": "framework",
-      "icon": "bi-circle-fill"
-    },
-    {
-      "key": "asyncflow",
-      "icon": "bi-circle-fill"
     }
   ]
 }
