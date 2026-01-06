@@ -13,7 +13,7 @@
     "phone": "+55 11 98501-9411",
     "email": "daniel.takata@gmail.com",
     "linkedin": "https://www.linkedin.com/in/danieltakata",
-    "github": null
+    "github": "https://github.com/dtakata"
   },
   "workExperience": [
     {
@@ -210,7 +210,7 @@
         "en": "KCNA: Kubernetes and Cloud Native Associate"
       },
       "issuer": "Cloud Native Computing Foundation",
-      "year": null
+      "year": 2025,
     },
     {
       "name": {
@@ -218,7 +218,7 @@
         "en": "AWS Certified Solutions Architect – Associate"
       },
       "issuer": "Amazon Web Services",
-      "year": null
+      "year": 2025,
     },
     {
       "name": {
@@ -226,7 +226,7 @@
         "en": "HashiCorp Certified: Terraform Associate"
       },
       "issuer": "HashiCorp",
-      "year": null
+      "year": 2024,
     },
     {
       "name": {
@@ -234,7 +234,7 @@
         "en": "AZ-305: Designing Microsoft Azure Infrastructure Solutions"
       },
       "issuer": "Microsoft",
-      "year": null
+      "year": 2025,
     }
   ],
   "languages": [
